@@ -96,7 +96,7 @@ The **Random Forest** algorithm significantly outperformed the Decision Tree, pr
 
 * **[`ML.R`](ML.R)**: The core R script containing the data normalization process, feature selection, and machine learning model training.
 * **[`Data files.rar`](Data%20files.rar)**: The genomic datasets utilized for training the models.
-* **[`Final_Report.pdf`](Final_Report.pdf?raw=true)**: The comprehensive 34-page research thesis detailing the biological background, methodology, and full analytical results. *(Clicking this link will directly download the PDF to bypass GitHub's preview limits).*
+* **Research Report:** [Download Final Report PDF](Final_Report.pdf) : The comprehensive 34-page research thesis detailing the biological background, methodology, and full analytical results. *(Clicking this link will directly download the PDF to bypass GitHub's preview limits).*
 
 ---
 

@@ -1,12 +1,17 @@
-# Pancreatic Cancer Biomarker Identification
+# 🧬 Pancreatic Cancer Biomarker Identification
 
-This project utilizes Next-Generation Sequencing (NGS) and Machine Learning (Random Forest) to identify biomarkers in Pancreatic Ductal Adenocarcinoma.
+This Final Year Project integrates an NGS pipeline with Machine Learning to identify genomic biomarkers for Pancreatic Ductal Adenocarcinoma.
 
-## 📁 Project Files
-* **Research Report:** [Download Final Report PDF](Final_Report.pdf)
-* **Analysis Script:** [View R Code](ML.R)
+## 📄 Research Report
+The full 34-page technical thesis is available here. 
 
-## 📊 Results Summary
-* **Algorithm:** Random Forest
+> **Note:** If the GitHub preview fails to load due to file size, please use the download button below.
+
+👉 **[Download Final_Report.pdf](Final_Report.pdf)**
+
+---
+
+## 🚀 Key Performance (Random Forest)
 * **Accuracy:** 92%
 * **Sensitivity:** 96%
+* **Specificity:** 81%

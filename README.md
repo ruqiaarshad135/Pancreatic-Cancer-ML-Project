@@ -47,7 +47,7 @@ The **Random Forest** algorithm significantly outperformed the Decision Tree, pr
 
 * **[`ML.R`](ML.R)**: The core R script containing the data normalization process, feature selection, and machine learning model training.
 * **[`Data files.rar`](Data%20files.rar)**: The genomic datasets utilized for training the models.
-* **[`Final_Report.pdf`](# 🧬 Biomarker Identification in Pancreatic Ductal Adenocarcinoma
+* **[Final_Report.pdf](Final_Report.pdf)(# 🧬 Biomarker Identification in Pancreatic Ductal Adenocarcinoma
 
 **Program:** Data Science & Artificial Intelligence (DSAI) - Final Year Project  
 **Domain:** Transcriptomics, Next-Generation Sequencing (NGS), Machine Learning  

@@ -100,9 +100,6 @@ The **Random Forest** algorithm significantly outperformed the Decision Tree, pr
 
 ---
 
-## 💡 Conclusion
-The integration of Machine Learning with traditional NGS pipelines successfully identified key biomarkers for Pancreatic Ductal Adenocarcinoma with a 92% accuracy rate. This highlights the critical role of Data Science and AI in accelerating oncological diagnostics and precision medicine.?raw=true)**: The comprehensive 34-page research thesis detailing the biological background, methodology, and full analytical results. *(Clicking this link will directly download the PDF to bypass GitHub's preview limits).*
-
 ---
 
 ## 💡 Conclusion
